@@ -1,0 +1,4 @@
+{
+  "source_path": "data/source.csv",
+  "db_path": "data/etl.db"
+}
